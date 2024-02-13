@@ -1,0 +1,110 @@
+[
+  {
+    "question": "First, you decide the radius of each circle in the logo. Then using the same radius you draw 5 circles of same size. All these circles will have properties like radius and color. All circles share behaviors to calculate circumference and area. Can you identify which of the following is an object?",
+    "options": [
+      "circle\n                                                                \n                                                        \n                                                         (*)",
+      "circumference",
+      "radius",
+      "fiveCircles"
+    ]
+  },
+  {
+    "question": "Once you have learned how to write programs and build systems, you no longer need any input or involvement from any users as you are perfectly capable of delivering the systems that businesses need and want.",
+    "options": [
+      "True. The only requirement for creating a perfect system is a perfect programmer.",
+      "True. Users never know what they want anyway, so building systems is best left to the professionals.",
+      "True. Users delay the delivery of a system by changing their minds and adding new requirements.",
+      "False. Business requirements can and will change. For instance new legal requirements may arise."
+    ]
+  },
+  {
+    "question": "The purpose of adding comments is to increase the ability to understand the logic easily.",
+    "options": ["True", "False"]
+  },
+  {
+    "question": "Which two statements are true about the break statement?",
+    "options": [
+      "The execution of the program will continue with the statement following the loop-statement.",
+      "The execution of the program will stop at the statement following the loop-statement.",
+      "When a break statement is executed inside a loop, the loop-statement is terminated immediately.",
+      "When a break statement is executed inside a loop, the loop-statement is terminated immediately and comes out of the program."
+    ]
+  },
+  {
+    "question": "A continue statement is used to skip the remaining statements in the body of a loop and continue with the next iteration of the loop.",
+    "options": ["True", "False"]
+  },
+  {
+    "question": "When is an update expression in a for loop executed?",
+    "options": [
+      "Before each iteration through the loop.",
+      "After each iteration through the loop.",
+      "After two iterations through the loop.",
+      "Before the first iteration through the loop."
+    ]
+  },
+  {
+    "question": "Looping continues as long as the boolean expression in the for loop is false.",
+    "options": ["True", "False"]
+  },
+  {
+    "question": "In the given syntax of for loop, which part represents the header section?  for (initialization; condition; update) {  // Code statement(s) }",
+    "options": [
+      "for (initialization; condition; update) { }",
+      "for (initialization; condition; update)",
+      "for (initialization; condition; update) { Code statement(s) }",
+      "Code statement(s)"
+    ]
+  },
+  {
+    "question": "What is the result? public static void main(String[] args) {      for (;;) {       System.out.println(\"Welcome to Java\");     }  }",
+    "options": [
+      "Program prints \"Welcome to Java\" once.",
+      "No error and no output.",
+      "Compilation error as expressions are missing in the for loop.",
+      "Program prints \"Welcome to Java\" an infinite number of times."
+    ]
+  },
+  {
+    "question": "Given: for(int i = 0; i > 10; i++){ } What type of variable is i?",
+    "options": ["Local", "Static", "Member", "Global"]
+  },
+  {
+    "question": "Which two are valid syntax to create a for loop?",
+    "options": [
+      "for(int i = 10, i >= 0, i++ ) {      System.out.println(\"i=\"+i); }",
+      "for(int i = 10 i >= 0; i++ ) {      System.out.println(\"i=\"+i); }",
+      "for(int i = 10; i >= 0; i++ ) {      System.out.println(\"i=\"+i); }",
+      "for(int i = 10; i >= 0; ) {      System.out.println(\"i=\"+i); }"
+    ]
+  },
+  {
+    "question": "Which loop type is considered to be a post-test loop?",
+    "options": ["while", "forEach", "for", "do-while"]
+  },
+  {
+    "question": "A pre-test loop evaluates the condition prior to execution of the loop.",
+    "options": ["True", "False"]
+  },
+  {
+    "question": "Which of the two are pre-test loops?",
+    "options": ["while", "forEach", "for", "do-while"]
+  },
+  {
+    "question": "A while loop is often used with Scanner input as you don't know many times you'll need to re-prompt the user if they type bad data.",
+    "options": ["True", "False"]
+  },
+  {
+    "question": "Which statement is NOT true about do-while loops?",
+    "options": [
+      "The number of times a do-while loop is executed is dependent upon the value of the counter variable.",
+      "Statements in the loop are executed once until the condition becomes false.",
+      "Statements in the loop are executed repeatedly until the condition becomes false.",
+      "Statements in the loop are executed once initially, and then the condition is evaluated."
+    ]
+  },
+  {
+    "question": "The while loop continually executes a block of statements while a particular condition is false.",
+    "options": ["True", "False"]
+  }
+]

@@ -1,0 +1,1364 @@
+[
+	{
+		"question": "The Spiral Model reflects an iterative development process. ​ ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A software feature may allow the user to perform a specific task. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Java mostly reads code line-by-line. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A breakpoint can be set by clicking a number in the left margin of the IDE. ​ Clicking again removes the breakpoint. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An object may interact with another object by invoking methods. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In object oriented programming, an object comprises of properties and behaviors where properties represented as fields of the object and behavior is represented as method. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Java is a strongly typed language; therefore you must declare a data type for all variables. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Assigning a value to the variable is called “initialization”. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The final keyword makes a variable’s value unchangeable.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "This declaration represents a long data type:",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A String can be created by combining multiple String Literals. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "char is the primitive textual data type in Java. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The Java compiler automatically promotes byte, short, and chars data type values to int data type. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Automatic promotion from smaller data type to a larger data type is not allowed in Java. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "It's best-practice to close the Scanner stream when finished. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The Scanner class considers space as the default delimiter while reading the input. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "void type methods don’t return any values. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An argument is a value that's passed during a method call. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Import statements are placed above the class definition. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The classes of the Java class library are organized into packages. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A String is a sequence of characters. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The String concat() method concatenates only String data types. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "You need to generate random integer values in the range 2 through 10. This code fragment will produce the desired result.<br><br>",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Using the Random class requires an import statement. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "All the methods in the Math class are static methods. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Every method of the Math class returns a numerical result. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The equal sign (=) is used to make an assignment, whereas the == sign merely makes a comparison and returns a Boolean.  ​ ​ ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A String comparison with == compares the Strings’ locations in memory and not the content of the String. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In the OR (||) test, if the first expression on the left hand side is true then there is no need to evaluate the second statement. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In Java, an if statement can be nested inside another if statement. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The switch statement is a more efficient way to write code when dealing with a large range of unknown values. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A break statement causes control to transfer to the end of the switch statement. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The for loop provides a complicated way to iterate over a range of values. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Loops are used in programs for repeated execution of one or more statements until a terminating condition is reached. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A do-while will always execute statements contained in the loop at least once. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A pre-test loop evaluates the condition prior to execution of the loop. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The purpose of adding comments is to increase the ability to understand the logic easily. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The only way to exit a loop is for the loop condition to evaluate to false. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Variables created within a method can be accessed outside that method. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "You have created an Employee class with all required fields and methods. 10 employees join the company. Should you copy and paste the Employee class for all 10 employees? ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Java automatically clears the memory once occupied by an object using garbage collection. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Objects are stored within the heap memory. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An object reference with a null value points to an empty location in memory. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In Java, the this keyword can be used to reference the current object’s fields and methods. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "You can write more than one constructor in a class. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Method overloading can be a useful technique for defining methods with similar functionality or calculations. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "To make fields directly accessible to other classes, the class fields must be marked public.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Access and visibility of a class should be limited as much as possible.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An object must be instantiated before its non-static fields and methods can be accessed. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Static variables of a class can be accessed, even if the class has not been instantiated. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An array allows you to create a single identifier that can be used to organize many items of the same data type. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The Java compiler does not check for an ArrayIndexOutOfBoundsException during the compilation of a program containing arrays. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A wrapper class encapsulates, or wraps, the primitive types within an object. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The size of an ArrayList can grow as needed. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An exception is an error that occurs during the execution of a program at run-time that disrupts the normal flow of the Java program. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Each catch block is an exception handler that handles the type of exception indicated by its argument. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Testing and debugging are important activities in software development. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Using the Java debugger, you can set breakpoints and trace through a program one line at a time. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A layout Pane dictates how Nodes must be positioned. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "JavaFX ​ is used to create GUI applications. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "How would you create a custom color that is pure cyan (equal parts green and blue)?",
+		"correct_options": [
+			"Color customColor = Color.rgb(0, 255, 255);"
+		]
+	},
+	{
+		"question": "The JavaFX API contains descriptions of Java FX features.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "JavaFX doesn’t provide you with UI elements, shapes and text. So you must always create your own graphics. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "When you write code for MouseEvents, you are telling a Node to listen for a particular event. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "SQL *Plus is being used in the Oracle Academy courses to run SQL code. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "The Oracle Academy courses are intended for self study. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Information is the result of combining, comparing and performing calculations on data. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A database is a centralized and structured set of data stored on a computer system and provides facilities for retrieving, adding, modifying, and deleting the data when required. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A flat file may contain many fields, often, with duplicate data that are prone to data corruption. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A network database comprises of a collection of records connected to one another through links. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "All Business Rules can be modeled.",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Business rules help you understand the standardization procedure an organization follows when handling huge data.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Flat file databases are generally in plain-text form, where each line holds only one record. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " A relational database stores information in tables with rows and columns. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The logical model determines relationship optionality and cardinality. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " The Physical Model is derived from the Logical Model. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Attributes have Instances. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "To identify an attribute as part of a unique identifier on an ER diagram, the # symbol goes in front of it. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "All entities must be given a new artificial UID. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A Unique Identifier has a NULL value for each instance of the entity for the lifetime of the instance. True or False",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "If a relationship is mandatory there must be at least one instance of the corresponding entity related to it. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A foreign key is a column or combination of columns in one table that uniquely identifies a row of another table. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Data models are drawn to show users the actual Data that their new system will contain; only Data listed on the Diagram can be entered into the Database. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Capturing all required data is the only goal of entity relationship modeling. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " Many to many relationships must be left in the Model. ​ It is important to have them documented as M-M. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Intersection Entities often have the relationships participating in the UID, so the relationships are often barred. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Modeling historical data can produce a unique identifier that includes dates. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Modeling historical data is optional. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " As a database designer, you do not need to worry about where in the datamodel you store a particular attribute; as long as you get it onto the ERD, your job is done. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " Normalizing an Entity to 1st Normal Form is done by removing any attributes that contain muliple values. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An entity name is converted to a table name by making it plural. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "We take the primary key from the \"one\" table and place it on the \"many\" table to create a foreign key. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "When building a model in Oracle SQL Data Modeler you begin in the ________ tab.",
+		"correct_options": [
+			"Logical"
+		]
+	},
+	{
+		"question": "In Oracle SQL Developer Data Modeler, the attribute that you assign as primary UID is automatically set to a mandatory attribute and will be engineered to a primary key in the relational model. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A Relational model is closer to the implementation solution, facilitates discussion and forms the basis for the physical database design. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Top-Down Modeling is the approach taken for designing a new database. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An Entity Relationship model does not highlight the physical and database constraints. It is essential to transform the ER model into a relational model which can serve as the basis for defining the physical implementation of the database. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The glossary can be used as the naming standard for your Logical Model. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "An Entity Relationship model does not highlight the physical and database constraints. It is essential to transform the ER model into a relational model which can serve as the basis for defining the physical implementation of the database. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The glossary can be used as the naming standard for your Logical Model. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In ​ APEX SQL Workshop and Object Browser options you can view table layouts. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "To use a computer application you must understand how it is built and how it works inside. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A table is the basic storage structure of an RDBMS. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A foreign key value must match an existing primary key value otherwise, it must be null. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Table names and column names must begin with a number and should be 1–30 characters long. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Constraints ensure the consistency and integrity of the database. ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "You can delete a row that contains a primary key that is used as a foreign key in another table. ​ True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "It is not mandatory to specify the column list in the INSERT statement. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "You can create a marker in the current transaction by using the SAVEPOINT statement. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The Oracle server ensures data consistency based on transactions. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The following statement will result in an error (True or False?):",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "You can display all columns of data in a table by following the SELECT keyword with an asterisk (*). ​ True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A logical condition combines the result of two component conditions to produce a single result based on those conditions or it inverts the result of a single condition. True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Character strings and dates in the WHERE clause must be enclosed with single quotation marks (' '). True or False?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The following statement will execute successfully (True or False?):",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The ORDER BY clause must be placed before the WHERE clause in a SQL statement. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "We must use the ON clause to join three tables. True or False?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Will the following statement execute successfully (True or False?):",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Creating multiple versions of your Alice project saves time. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Alice 3 will periodically remind you to save your project. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " Saved Alice projects can be opened and edited. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Alice objects move relative to the orientation of the person viewing the animation. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Alice, you can define your own procedures for a class, but not your own functions. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Alice, each class has a set of pre-defined procedures and functions. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "From your Alice lessons, random numbers are numbers generated by the user with a pattern in their sequence. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "The first step to using a top-down approach to programming is to create a table to align the storyboard steps to the programming instructions. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Defining the scenario, and the Alice animation to represent the scenario, is the first step to programming your animation. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "From your Alice lessons, inheritance means that the superclass inherits its traits from the subclass. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " In Alice, the procedures' arguments allow the programmer to adjust the object, motion, distance amount, and time duration. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " In Alice, the setVehicle procedure will associate one object to another. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Functions answer questions about an object, such as its height, width, depth and even distance to another object. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In Alice, functions are dragged into the control statement, not the procedure. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "From your Alice lessons, the IF control structure can process one true and one false response. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The Alice IF control structure requires the false statement to be populated. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " In Alice, we can avoid object collision using what?",
+		"correct_options": [
+			"Using math operators."
+		]
+	},
+	{
+		"question": "In Alice, which of the following programming statements moves the cat backward, half the distance to the bird? ",
+		"correct_options": [
+			"this.Cat move backward {this.Cat getDistanceTo this.Bird / 2}"
+		]
+	},
+	{
+		"question": "From your Alice lessons, variables are fixed and cannot be changed. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A variable is a named location inside the computer's memory; once there, the information can be retrieved and changed. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In Alice it is not possible to transfer a class from one animation to another. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "An event is any action initiated by the user that is designed to influence the program’s execution during play. ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "From your Alice lessons, functional decomposition is the process of taking a complex problem or process and growing it into larger parts that are easier to manage. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "From your Alice lessons, a textual storyboard provides a detailed, ordered list of the actions each object performs in each scene of the animation. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A data type defines the type of procedures a variable can store. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A typical application uses various values and these values continuously change while the program is running. True or false? ​ ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " In Java, a function is a method that returns a value. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " The condition in a WHILE loop is a boolean expression. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "From your Greenfoot lessons, an instance inherits all of the characteristics of the class, and those characteristics cannot be changed. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " In Greenfoot, you must first create an instance before you create a class. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Greenfoot, instances inherit the characteristics of the subclass they belong to, but not the superclass. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "From your Greenfoot lessons, when a method needs additional data to perform a task, this data comes from parameters. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "From your Greenfoot lessons, in an if-statement, the programming statements written in curly brackets are executed simultaneously. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Greenfoot, only 10 methods can be written for each class in the Code editor. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "When a program is tested once and it works then testing is complete.",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Greenfoot, you will not receive an error message if your code is incorrect. It will simply not work, and you will have to determine why the code doesn't work. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "The Greenfoot method getRandomNumber is used to create predictable behaviour in your scenario.",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Greenfoot, you can use comparison operators to compare a variable to a random number. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In Greenfoot, a way to have all subclasses of a superclass inherit a method is by adding the method to the superclass. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " In Greenfoot, defined methods must be used immediately. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Greenfoot you can interact with the scenario using a mouse.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " Greenfoot has tools to record sound. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "When you re-initialize a scenario, Greenfoot automatically displays an instance of the World subclass in the scenario. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " In Greenfoot, a constructor has a void return type. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In Greenfoot modifying an actors constructor to accept an initial speed is a form of abstraction?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Use your Greenfoot knowldege: Abstraction occurs in many different ways in programming. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "In Greenfoot, a local variable is declared at the beginning of a class. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Use your Greenfoot knowledge: An array object holds a single variable. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A Java IDE does not provide views to help you navigate a hierarchy of information. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "In a project, 1 of the classes must contain a main method. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "When importing another package into a class you must import the entire package as well as the package classes that will be called. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "When importing another package into a class you must import only the package classes that will be called and not the entire package. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " Consider the following: You are writing a class and are using a global variable. ​ Inside a method you declare a local variable with the same name as the global variable.",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "A local variable has precedence over a global variable in a Java method. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " When a String object is created it must be assigned a value. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " The following code is an example of instantiating a String object:",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "Consider that a Scanner has been initialized such that:",
+		"correct_options": [
+			"String input = in.next();"
+		]
+	},
+	{
+		"question": " In an if-else construct the condition to be evaluated must end with a semi-colon. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "One advantage to using a while loop over a for loop is that a while loop always has a counter. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " Updating the input of a loop allows you to implement the code with the next element rather than repeating the code always with the same element. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " The following array declaration is valid. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " The following segment of code initializes a 2 dimensional array of references. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "It is possible to throw and catch a second exception inside a catch block of code. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "A logic error occurs if an unintentional semicolon is placed at the end of a loop initiation because the interpreter reads this as the only line inside the loop, a line that does nothing. Everything that follows the semicolon is interpreted as code outside of the loop. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " The following code creates an object of type Animal. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "The basic unit of encapsulation in Java is the primitive data type. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": " It is possible to overload a method that is not a constructor. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " It is possible to have more than one constructor with the same name in a class, but they must have different parameters. True or false?",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " The final keyword makes a static variable act like a constant. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " A static variable is always publicly available. True or false? ",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "According to the following class declaration, runSpeed can be modified in class Cat. True or false?",
+		"correct_options": [
+			"False"
+		]
+	},
+	{
+		"question": "It is possible for a subclass to be a superclass. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " If Oak extends Tree, it is possible to declare an object such that ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": " If an abstract class does not have implemented constructors or methods, it should be implemented as an interface instead. True or false? ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "Access and visibility of a class should be limited as much as possible.  ​  ",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "To make fields directly accessible to other classes, the class fields must be marked public.",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	},
+	{
+		"question": "",
+		"correct_options": [
+			"True"
+		]
+	}
+]
